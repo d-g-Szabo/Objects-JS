@@ -68,3 +68,8 @@ console.log(`Tags for post "${blogPost.title}":`); // Output: Tags for post "My 
 for (let tag of blogPost.tags) {
   console.log(tag); // Output: baking, cake, recipe
 }
+
+console.log(document);
+console.log(document.title);
+document.title = "Hello World";
+console.log(document.title);
