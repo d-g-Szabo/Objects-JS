@@ -1,2 +1,5 @@
 # Objects-JS
-Javascript objects
+
+Javascript Objects
+Javascript Complex Objects
+Javascript Object Methods
